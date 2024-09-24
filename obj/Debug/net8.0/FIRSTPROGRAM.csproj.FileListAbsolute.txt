@@ -1,0 +1,14 @@
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\bin\Debug\net8.0\FIRSTPROGRAM.exe
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\bin\Debug\net8.0\FIRSTPROGRAM.deps.json
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\bin\Debug\net8.0\FIRSTPROGRAM.runtimeconfig.json
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\bin\Debug\net8.0\FIRSTPROGRAM.dll
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\bin\Debug\net8.0\FIRSTPROGRAM.pdb
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\FIRSTPROGRAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\FIRSTPROGRAM.AssemblyInfoInputs.cache
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\FIRSTPROGRAM.AssemblyInfo.cs
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\FIRSTPROGRAM.csproj.CoreCompileInputs.cache
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\FIRSTPROGRAM.dll
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\refint\FIRSTPROGRAM.dll
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\FIRSTPROGRAM.pdb
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\FIRSTPROGRAM.genruntimeconfig.cache
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\ref\FIRSTPROGRAM.dll
