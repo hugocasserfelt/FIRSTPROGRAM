@@ -12,3 +12,4 @@ C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0
 C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\FIRSTPROGRAM.pdb
 C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\FIRSTPROGRAM.genruntimeconfig.cache
 C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\ref\FIRSTPROGRAM.dll
+C:\Users\hugo.casserfelt\source\repos\FIRSTPROGRAM\FIRSTPROGRAM\obj\Debug\net8.0\FIRSTPROGRAM.sourcelink.json

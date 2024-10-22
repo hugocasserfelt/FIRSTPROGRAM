@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FIRSTPROGRAM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5773c7898fd1552c11954d8c96366bee69449648")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0dbea94b2ae7f863d879ad6c602514fcdc0a010")]
 [assembly: System.Reflection.AssemblyProductAttribute("FIRSTPROGRAM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FIRSTPROGRAM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
